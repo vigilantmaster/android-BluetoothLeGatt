@@ -1,0 +1,4 @@
+#Thu Aug 01 15:27:17 PDT 2019
+base.0=C\:\\Users\\Tanel Helmik\\Documents\\GitHub\\android-BluetoothLeGatt\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
